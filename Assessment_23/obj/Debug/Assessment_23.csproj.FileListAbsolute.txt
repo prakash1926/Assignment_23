@@ -1,0 +1,7 @@
+C:\Users\abdul\source\repos\Assignment-23\Assessment_23\Assessment_23\bin\Debug\Assessment_23.exe.config
+C:\Users\abdul\source\repos\Assignment-23\Assessment_23\Assessment_23\bin\Debug\Assessment_23.exe
+C:\Users\abdul\source\repos\Assignment-23\Assessment_23\Assessment_23\bin\Debug\Assessment_23.pdb
+C:\Users\abdul\source\repos\Assignment-23\Assessment_23\Assessment_23\obj\Debug\Assessment_23.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Assignment-23\Assessment_23\Assessment_23\obj\Debug\Assessment_23.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Assignment-23\Assessment_23\Assessment_23\obj\Debug\Assessment_23.exe
+C:\Users\abdul\source\repos\Assignment-23\Assessment_23\Assessment_23\obj\Debug\Assessment_23.pdb
